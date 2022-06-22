@@ -1,0 +1,20 @@
+[
+  {
+    "title": "escuadra",
+    "precio": 440,
+    "thumbnail": "https://www.google.cl",
+    "id": "1"
+  },
+  {
+    "title": "calculadora",
+    "precio": 1300,
+    "thumbnail": "https://www.youtube.cl",
+    "id": "2"
+  },
+  {
+    "title": "globo terráqueo",
+    "precio": 5456,
+    "thumbnail": "https://www.twitter.com",
+    "id": "3"
+  }
+]
